@@ -1,19 +1,36 @@
-# 🐉 Animación ÉPICA de Dragón
+# 🐉 Dragón Interactivo ÉPICO con HTML, CSS y JavaScript
 
-Bienvenido a este proyecto donde aprenderás a crear una animación **épica** de un dragón usando únicamente **HTML**, **CSS** y **JavaScript**. Este es un ejemplo visualmente impresionante que demuestra el poder del código front-end puro, sin frameworks ni librerías externas.
+![Preview](https://dragon-interativo.vercel.app/dragon.png) <!-- Puedes cambiar este link por una imagen local si deseas -->
 
-🔗 **Demo en vivo:**  
-👉 [https://dragon-interativo.vercel.app](https://dragon-interativo.vercel.app)
+## 🚀 Descripción
 
----
+Este proyecto es una animación **épica** de un dragón completamente desarrollada con tecnologías web estándar: **HTML, CSS y JavaScript**.  
+Puedes verlo en acción aquí 👉 [dragon-interativo.vercel.app](https://dragon-interativo.vercel.app/)
 
-## 🚀 Tecnologías utilizadas
-
-- 💻 HTML5  
-- 🎨 CSS3 (con animaciones avanzadas)  
-- 🧠 JavaScript (para interactividad y control de movimiento)
+> La animación incluye movimiento dinámico, interacciones visuales y un diseño creativo inspirado en criaturas fantásticas.
 
 ---
 
-## 📁 Estructura del proyecto
+## 🛠️ Tecnologías utilizadas
 
+- ✅ HTML5  
+- ✅ CSS3 (con animaciones y efectos avanzados)  
+- ✅ JavaScript (interactividad y control de animaciones)
+
+---
+
+## 🎮 ¿Qué puedes hacer?
+
+- Ver una animación fluida y detallada del dragón.
+- Explorar los efectos visuales y el diseño estilizado.
+- Analizar el código fuente para aprender sobre animaciones CSS y DOM JS.
+
+---
+
+## 📁 Estructura del Proyecto
+
+/dragon-interactivo/
+│
+├── index.html # Estructura principal de la página
+├── style.css # Estilos y animaciones CSS
+└── script.js # Lógica e interacciones con JavaScript
