@@ -25,12 +25,3 @@ Puedes verlo en acción aquí 👉 [dragon-interativo.vercel.app](https://dragon
 - Explorar los efectos visuales y el diseño estilizado.
 - Analizar el código fuente para aprender sobre animaciones CSS y DOM JS.
 
----
-
-## 📁 Estructura del Proyecto
-
-/dragon-interactivo/
-│
-├── index.html # Estructura principal de la página
-├── style.css # Estilos y animaciones CSS
-└── script.js # Lógica e interacciones con JavaScript
