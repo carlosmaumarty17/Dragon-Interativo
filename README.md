@@ -1,6 +1,6 @@
 # 🐉 Dragón Interactivo ÉPICO con HTML, CSS y JavaScript
 
-(![Captura de pantalla 2025-06-30 094552](https://github.com/user-attachments/assets/eefb46a0-aefc-439f-a705-0f95d0f0c5b6)
+[Captura de pantalla 2025-06-30 094552](https://github.com/user-attachments/assets/eefb46a0-aefc-439f-a705-0f95d0f0c5b6)
 ) <!-- Puedes cambiar este link por una imagen local si deseas -->
 
 ## 🚀 Descripción
